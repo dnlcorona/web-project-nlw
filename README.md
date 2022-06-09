@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Git Explorer" src="./.github/nlw-image.png"/>
+    <img alt="Git Explorer" src="./.github/nlw-image.jpg"/>
 </p>
 
 <h1 align="center">
@@ -20,27 +20,31 @@
 
 ## 📁 Projeto
 
-Um Component Widget para feedbacks.
+Um Component Widget para feedbacks realizado durante o evento NLW Return transmitido pela [Rocketseat](https://www.rocketseat.com.br/).
+<p></p>
+Cada parte do projeto (front-end, back-end e mobile) está separado em diretórios diferentes.
 
 ## 🛠 Tecnologias
-- [React Boilerplate]
-  - [Vite](https://vitejs.dev/)
-- [Web 🌐]
+
+- [Web 🌐](./web):
   - [ReactJS](https://pt-br.reactjs.org/)
   - [Phosphor Icons](https://phosphoricons.com/)
   - [Tailwindcss](https://tailwindcss.com/)
-- [Server 💻]
+  - [React Boilerplate]
+    - [Vite](https://vitejs.dev/)
+- [Server 💻](./server):
   - [NodeJS](https://nodejs.org/pt-br/)
   - [Express](https://expressjs.com/pt-br/)
   - [Axios](https://axios-http.com/ptbr/docs/intro)
   - [Prisma](https://www.prisma.io/)
   - [Jest](https://jestjs.io/pt-BR/)
   - [SQlite](https://www.sqlite.org/index.html)
-- [Mobile 📱]
+  - [Outras Tecnologias ⚙]
+    - [Mailtrap](https://mailtrap.io/)
+- [Mobile 📱](./mobile):
   - [React Native](https://reactnative.dev/)
   - [Expo](https://expo.dev/)
-- [Outras Tecnologias ⚙]
-  - [Mailtrap](https://mailtrap.io/)
+
 
 ## 🚀 **Em constante evolução...**
 
