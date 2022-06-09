@@ -16,7 +16,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/dnlcorona/" target="_blank">
-    <img alt="Follow me Linkedin" src="https://img.shields.io/badge/Follow%20up-dnlcorona-2ecc71?style=social&logo=linkedin">
+    <img alt="Follow me Linkedin" src="https://img.shields.io/badge/Follow%20up-dnlcorona-ffffff?style=social&logo=linkedin">
   </a>
 </p>
 
