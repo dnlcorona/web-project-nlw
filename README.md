@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Git Explorer" src="./.github/nlw-image.jpg"/>
+    <img style="width: 80%" alt="Git Explorer" src="./.github/nlw-image.jpg"/>
 </p>
 
 <h1 align="center">
@@ -30,7 +30,7 @@ Cada parte do projeto (front-end, back-end e mobile) está separado em diretóri
   - [ReactJS](https://pt-br.reactjs.org/)
   - [Phosphor Icons](https://phosphoricons.com/)
   - [Tailwindcss](https://tailwindcss.com/)
-  - [React Boilerplate]
+  - React Boilerplate 🧱
     - [Vite](https://vitejs.dev/)
 - [Server 💻](./server):
   - [NodeJS](https://nodejs.org/pt-br/)
@@ -39,7 +39,7 @@ Cada parte do projeto (front-end, back-end e mobile) está separado em diretóri
   - [Prisma](https://www.prisma.io/)
   - [Jest](https://jestjs.io/pt-BR/)
   - [SQlite](https://www.sqlite.org/index.html)
-  - [Outras Tecnologias ⚙]
+  - Outras Tecnologias ⚙
     - [Mailtrap](https://mailtrap.io/)
 - [Mobile 📱](./mobile):
   - [React Native](https://reactnative.dev/)
