@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-	NLW Return Impulse by Rockeseat
+	NLW Return Impulse by Rockeseat.
 </h1>
 
 <p align="center">Trilha Impulse do Evento Next Level Week Return.</p>
@@ -11,7 +11,7 @@
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-ffffff">
 
-  <a href="https://github.com/IgorThierry">
+  <a href="https://github.com/dnlcorona">
     <img alt="Made by Daniel Corona" src="https://img.shields.io/badge/Made%20by-Daniel%20Corona-ffffff">
   </a>
 
@@ -20,20 +20,24 @@
   </a>
 </p>
 
-## 🚀 Projeto
+## 📁 Projeto
 
-Um Component Widget para feedback que pode ser utilizado em qualquer site.
+Um Component Widget para feedbacks.
 
-## 🔧 Tecnologias
+## 🛠 Tecnologias
 
-- Vite
-- TailWindCSS
 - ReactJS
-- NodeJS
 - React native
+- NodeJS
+- TailWindCSS
+- Vite
 - Expo
+- Express
+- Prisma
+- Axios
+- SQlite
+- Mailtrap
 - ESLint + Prettier + EditorConfig;
-- VS Code
 
 ## 🚀 **Em constante evolução...**
 
