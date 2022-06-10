@@ -1,5 +1,5 @@
 <p align="center">
-    <img style="width: 80%" alt="Git Explorer" src="./.github/nlw-image.jpg"/>
+    <img style="height: 80%" alt="Git Explorer" src="./.github/nlw-image.jpg"/>
 </p>
 
 <h1 align="center">
@@ -22,7 +22,7 @@
 
 Um Component Widget para feedbacks realizado durante o evento NLW Return transmitido pela [Rocketseat](https://www.rocketseat.com.br/).
 <p></p>
-Cada parte do projeto (front-end, back-end e mobile) está separado em diretórios diferentes.
+Cada parte do projeto (front-end, back-end e mobile) estão separados em diretórios diferentes.
 
 ## 🛠 Tecnologias
 
