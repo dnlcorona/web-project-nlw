@@ -1,22 +1,24 @@
-<p align="center">
-    <img style="height: 70%; width: 70%" alt="Git Explorer" src="./.github/nlw-image.jpg"/>
-</p>
-
 <h1 align="center">
 	NLW Return Impulse by Rockeseat.
 </h1>
 
 <p align="center">Trilha Impulse do NLW Return.</p>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/dnlcorona">
-    <img alt="Made by Daniel Corona" src="https://img.shields.io/badge/Made%20by-Daniel%20Corona-ffffff">
+    <img alt="Author Daniel Corona" src="https://img.shields.io/badge/Author%20-Daniel%20Corona-ffffff">
   </a>
 
   <a href="https://www.linkedin.com/in/dnlcorona/" target="_blank">
     <img alt="Follow me Linkedin" src="https://img.shields.io/badge/Follow%20up-dnlcorona-ffffff?style=social&logo=linkedin">
   </a>
-</p>
+</div>
+
+## 🔥 Preview
+
+<div align="center">
+    <img style="height: 70%; width: 70%" alt="Preview" src="./.github/nlw-image.jpg"/>
+</div>
 
 ## 📁 Projeto
 
