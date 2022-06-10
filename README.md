@@ -1,5 +1,5 @@
 <p align="center">
-    <img style="height: 80%" alt="Git Explorer" src="./.github/nlw-image.jpg"/>
+    <img style="height: 50%; width: 50%" alt="Git Explorer" src="./.github/nlw-image.jpg"/>
 </p>
 
 <h1 align="center">
